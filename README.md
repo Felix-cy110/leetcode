@@ -22,6 +22,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Felix-cy110/leetcode/tree/main/0053-maximum-subarray/) | undefined |
 | [0189-rotate-array](https://github.com/Felix-cy110/leetcode/tree/main/0189-rotate-array/) | undefined |
 ## Math
 | Problem Name | Difficulty |
@@ -39,4 +40,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/Felix-cy110/leetcode/tree/main/0206-reverse-linked-list/) | undefined |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Felix-cy110/leetcode/tree/main/0053-maximum-subarray/) | undefined |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Felix-cy110/leetcode/tree/main/0053-maximum-subarray/) | undefined |
 <!---LeetCode Topics End-->
