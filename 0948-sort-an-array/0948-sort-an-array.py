@@ -6,8 +6,8 @@ class Solution:
         def qs(arr, l, r):
             if l >= r:
                 return
-            pivot = arr[random.randint(l, r)]
-            i, j = l, r
+            i,j = l,r
+            pivot = arr[random.randint(l,r)]
             while i <= j:
                 while arr[i] < pivot:
                     i += 1
@@ -16,7 +16,7 @@ class Solution:
                 if i <= j:
                     arr[i], arr[j] = arr[j], arr[i]
                     i += 1
-                    j -= 1
+                    j -= 1   
             qs(arr, l, j)
             qs(arr, i, r)
         qs(nums, 0, len(nums)-1)
