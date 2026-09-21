@@ -22,6 +22,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Felix-cy110/leetcode/tree/main/0001-two-sum/) | undefined |
 | [0053-maximum-subarray](https://github.com/Felix-cy110/leetcode/tree/main/0053-maximum-subarray/) | undefined |
 | [0189-rotate-array](https://github.com/Felix-cy110/leetcode/tree/main/0189-rotate-array/) | undefined |
 | [0948-sort-an-array](https://github.com/Felix-cy110/leetcode/tree/main/0948-sort-an-array/) | undefined |
@@ -77,6 +78,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Felix-cy110/leetcode/tree/main/0001-two-sum/) | undefined |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Felix-cy110/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | undefined |
 ## String
 | Problem Name | Difficulty |
