@@ -23,7 +23,7 @@ class Solution:
                         r -= 1
                         continue
                 elif s > 0:
-                    l += 1
-                else:
                     r -= 1
+                else:
+                    l += 1
         return ret
