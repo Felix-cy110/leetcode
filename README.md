@@ -74,4 +74,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0948-sort-an-array](https://github.com/Felix-cy110/leetcode/tree/main/0948-sort-an-array/) | undefined |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Felix-cy110/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | undefined |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Felix-cy110/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | undefined |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Felix-cy110/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | undefined |
 <!---LeetCode Topics End-->
