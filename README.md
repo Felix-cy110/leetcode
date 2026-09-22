@@ -6,6 +6,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Felix-cy110/leetcode/tree/main/0020-valid-parentheses/) | undefined |
 | [0094-binary-tree-inorder-traversal](https://github.com/Felix-cy110/leetcode/tree/main/0094-binary-tree-inorder-traversal/) | undefined |
 ## Tree
 | Problem Name | Difficulty |
@@ -89,6 +90,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Felix-cy110/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | undefined |
+| [0020-valid-parentheses](https://github.com/Felix-cy110/leetcode/tree/main/0020-valid-parentheses/) | undefined |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -101,4 +103,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/Felix-cy110/leetcode/tree/main/0146-lru-cache/) | undefined |
+## 括号序列
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Felix-cy110/leetcode/tree/main/0020-valid-parentheses/) | undefined |
 <!---LeetCode Topics End-->
