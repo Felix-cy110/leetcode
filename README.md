@@ -26,6 +26,7 @@
 | [0001-two-sum](https://github.com/Felix-cy110/leetcode/tree/main/0001-two-sum/) | undefined |
 | [0015-3sum](https://github.com/Felix-cy110/leetcode/tree/main/0015-3sum/) | undefined |
 | [0053-maximum-subarray](https://github.com/Felix-cy110/leetcode/tree/main/0053-maximum-subarray/) | undefined |
+| [0088-merge-sorted-array](https://github.com/Felix-cy110/leetcode/tree/main/0088-merge-sorted-array/) | undefined |
 | [0189-rotate-array](https://github.com/Felix-cy110/leetcode/tree/main/0189-rotate-array/) | undefined |
 | [0948-sort-an-array](https://github.com/Felix-cy110/leetcode/tree/main/0948-sort-an-array/) | undefined |
 ## Math
@@ -36,6 +37,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Felix-cy110/leetcode/tree/main/0015-3sum/) | undefined |
+| [0088-merge-sorted-array](https://github.com/Felix-cy110/leetcode/tree/main/0088-merge-sorted-array/) | undefined |
 | [0189-rotate-array](https://github.com/Felix-cy110/leetcode/tree/main/0189-rotate-array/) | undefined |
 ## Recursion
 | Problem Name | Difficulty |
@@ -71,6 +73,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Felix-cy110/leetcode/tree/main/0015-3sum/) | undefined |
+| [0088-merge-sorted-array](https://github.com/Felix-cy110/leetcode/tree/main/0088-merge-sorted-array/) | undefined |
 | [0948-sort-an-array](https://github.com/Felix-cy110/leetcode/tree/main/0948-sort-an-array/) | undefined |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
