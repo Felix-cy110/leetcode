@@ -7,12 +7,12 @@ class Solution:
             if l >= r:
                 return
             n = len(arr)
-            divot = arr[random.randint(l,r)]
-            i,j = l,r
+            pivot = nums[random.randint(l, r)]
+            i,j = l, r
             while i <= j:
-                while arr[i] < divot:
+                while nums[i] < pivot:
                     i += 1
-                while arr[j] > divot:
+                while nums[j] > pivot:
                     j -= 1
                 if i <= j:
                     arr[i], arr[j] = arr[j], arr[i]
@@ -20,5 +20,5 @@ class Solution:
                     j -= 1
             qs(arr, i, r)
             qs(arr, l, j)
-        qs(nums, 0, len(nums)-1)
+        qs(nums, 0, len(nums) - 1)
         return nums
