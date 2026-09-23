@@ -7,6 +7,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Felix-cy110/leetcode/tree/main/0020-valid-parentheses/) | undefined |
+| [0042-trapping-rain-water](https://github.com/Felix-cy110/leetcode/tree/main/0042-trapping-rain-water/) | undefined |
 | [0094-binary-tree-inorder-traversal](https://github.com/Felix-cy110/leetcode/tree/main/0094-binary-tree-inorder-traversal/) | undefined |
 ## Tree
 | Problem Name | Difficulty |
@@ -25,6 +26,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Felix-cy110/leetcode/tree/main/0001-two-sum/) | undefined |
 | [0015-3sum](https://github.com/Felix-cy110/leetcode/tree/main/0015-3sum/) | undefined |
+| [0042-trapping-rain-water](https://github.com/Felix-cy110/leetcode/tree/main/0042-trapping-rain-water/) | undefined |
 | [0053-maximum-subarray](https://github.com/Felix-cy110/leetcode/tree/main/0053-maximum-subarray/) | undefined |
 | [0088-merge-sorted-array](https://github.com/Felix-cy110/leetcode/tree/main/0088-merge-sorted-array/) | undefined |
 | [0189-rotate-array](https://github.com/Felix-cy110/leetcode/tree/main/0189-rotate-array/) | undefined |
@@ -39,6 +41,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Felix-cy110/leetcode/tree/main/0015-3sum/) | undefined |
+| [0042-trapping-rain-water](https://github.com/Felix-cy110/leetcode/tree/main/0042-trapping-rain-water/) | undefined |
 | [0088-merge-sorted-array](https://github.com/Felix-cy110/leetcode/tree/main/0088-merge-sorted-array/) | undefined |
 | [0189-rotate-array](https://github.com/Felix-cy110/leetcode/tree/main/0189-rotate-array/) | undefined |
 ## Recursion
@@ -58,6 +61,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Felix-cy110/leetcode/tree/main/0042-trapping-rain-water/) | undefined |
 | [0053-maximum-subarray](https://github.com/Felix-cy110/leetcode/tree/main/0053-maximum-subarray/) | undefined |
 ## Bucket Sort
 | Problem Name | Difficulty |
@@ -130,4 +134,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0792-binary-search](https://github.com/Felix-cy110/leetcode/tree/main/0792-binary-search/) | undefined |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Felix-cy110/leetcode/tree/main/0042-trapping-rain-water/) | undefined |
 <!---LeetCode Topics End-->
