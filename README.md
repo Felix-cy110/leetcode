@@ -47,10 +47,12 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Felix-cy110/leetcode/tree/main/0021-merge-two-sorted-lists/) | undefined |
 | [0206-reverse-linked-list](https://github.com/Felix-cy110/leetcode/tree/main/0206-reverse-linked-list/) | undefined |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Felix-cy110/leetcode/tree/main/0021-merge-two-sorted-lists/) | undefined |
 | [0146-lru-cache](https://github.com/Felix-cy110/leetcode/tree/main/0146-lru-cache/) | undefined |
 | [0206-reverse-linked-list](https://github.com/Felix-cy110/leetcode/tree/main/0206-reverse-linked-list/) | undefined |
 ## Divide and Conquer
