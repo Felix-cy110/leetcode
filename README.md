@@ -28,6 +28,7 @@
 | [0053-maximum-subarray](https://github.com/Felix-cy110/leetcode/tree/main/0053-maximum-subarray/) | undefined |
 | [0088-merge-sorted-array](https://github.com/Felix-cy110/leetcode/tree/main/0088-merge-sorted-array/) | undefined |
 | [0189-rotate-array](https://github.com/Felix-cy110/leetcode/tree/main/0189-rotate-array/) | undefined |
+| [0239-sliding-window-maximum](https://github.com/Felix-cy110/leetcode/tree/main/0239-sliding-window-maximum/) | undefined |
 | [0948-sort-an-array](https://github.com/Felix-cy110/leetcode/tree/main/0948-sort-an-array/) | undefined |
 ## Math
 | Problem Name | Difficulty |
@@ -78,6 +79,7 @@
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/Felix-cy110/leetcode/tree/main/0239-sliding-window-maximum/) | undefined |
 | [0948-sort-an-array](https://github.com/Felix-cy110/leetcode/tree/main/0948-sort-an-array/) | undefined |
 ## Merge Sort
 | Problem Name | Difficulty |
@@ -98,6 +100,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Felix-cy110/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | undefined |
+| [0239-sliding-window-maximum](https://github.com/Felix-cy110/leetcode/tree/main/0239-sliding-window-maximum/) | undefined |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -110,4 +113,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Felix-cy110/leetcode/tree/main/0020-valid-parentheses/) | undefined |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/Felix-cy110/leetcode/tree/main/0239-sliding-window-maximum/) | undefined |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/Felix-cy110/leetcode/tree/main/0239-sliding-window-maximum/) | undefined |
+## 区间最值查询
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/Felix-cy110/leetcode/tree/main/0239-sliding-window-maximum/) | undefined |
 <!---LeetCode Topics End-->
