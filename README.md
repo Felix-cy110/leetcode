@@ -29,6 +29,7 @@
 | [0088-merge-sorted-array](https://github.com/Felix-cy110/leetcode/tree/main/0088-merge-sorted-array/) | undefined |
 | [0189-rotate-array](https://github.com/Felix-cy110/leetcode/tree/main/0189-rotate-array/) | undefined |
 | [0239-sliding-window-maximum](https://github.com/Felix-cy110/leetcode/tree/main/0239-sliding-window-maximum/) | undefined |
+| [0792-binary-search](https://github.com/Felix-cy110/leetcode/tree/main/0792-binary-search/) | undefined |
 | [0948-sort-an-array](https://github.com/Felix-cy110/leetcode/tree/main/0948-sort-an-array/) | undefined |
 ## Math
 | Problem Name | Difficulty |
@@ -125,4 +126,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/Felix-cy110/leetcode/tree/main/0239-sliding-window-maximum/) | undefined |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0792-binary-search](https://github.com/Felix-cy110/leetcode/tree/main/0792-binary-search/) | undefined |
 <!---LeetCode Topics End-->
