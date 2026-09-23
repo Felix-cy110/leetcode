@@ -4,6 +4,7 @@ class DLinkedNode:
         self.value = value
         self.next = None
         self.prev = None
+
 class LRUCache:
 
     def __init__(self, capacity: int):
@@ -14,6 +15,7 @@ class LRUCache:
         self.tail = DLinkedNode()
         self.head.next = self.tail
         self.tail.prev = self.head
+
     def get(self, key: int) -> int:
         if key not in self.cache:
             return -1
@@ -27,34 +29,33 @@ class LRUCache:
             self.addToHead(node)
             self.size += 1
             if self.size > self.capacity:
-                removedNode = self.removeTail()
+                removed = self.removeTail()
                 self.size -= 1
-                self.cache.pop(removedNode.key)
+                self.cache.pop(removed.key)
         else:
             node = self.cache[key]
             node.value = value
             self.moveToHead(node)
-
+        
     def addToHead(self, node):
         self.head.next.prev = node
         node.next = self.head.next
-        node.prev = self.head
         self.head.next = node
+        node.prev = self.head
 
-    def remove(self, node):
-        node.next.prev = node.prev
+    def removeNode(self, node):
         node.prev.next = node.next
+        node.next.prev = node.prev
+
 
     def moveToHead(self, node):
-        self.remove(node)
+        self.removeNode(node)
         self.addToHead(node)
 
     def removeTail(self):
         node = self.tail.prev
-        self.remove(node)
+        self.removeNode(node)
         return node
-        
-
 
 # Your LRUCache object will be instantiated and called as such:
 # obj = LRUCache(capacity)
