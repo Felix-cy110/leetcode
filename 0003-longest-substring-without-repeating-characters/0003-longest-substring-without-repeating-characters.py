@@ -10,4 +10,3 @@ class Solution:
                 seen.add(s[j])
                 ret = max(ret, j-i+1)
         return ret
-                
