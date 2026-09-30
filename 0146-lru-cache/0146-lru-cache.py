@@ -25,13 +25,13 @@ class LRUCache:
     def put(self, key: int, value: int) -> None:
         if key not in self.cache:
             node = DLinkedNode(key, value)
-            self.cache[key] = node
             self.addToHead(node)
             self.size += 1
+            self.cache[key] = node
             if self.size > self.capacity:
+                self.size -= 1
                 removed = self.removeTail()
                 self.cache.pop(removed.key)
-                self.size -= 1
         else:
             node = self.cache[key]
             node.value = value
@@ -54,7 +54,6 @@ class LRUCache:
         node = self.tail.prev
         self.remove(node)
         return node
-
 # Your LRUCache object will be instantiated and called as such:
 # obj = LRUCache(capacity)
 # param_1 = obj.get(key)
